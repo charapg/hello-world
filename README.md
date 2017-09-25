@@ -1,2 +1,5 @@
 # hello-world
-This is a short descritpion for my new repository
+
+hello you
+
+this is a short text for my new repository
